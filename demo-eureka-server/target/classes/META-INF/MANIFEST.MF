@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ovalencia
+Implementation-Vendor-Id: co.com.ingeneo.demo
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/demo-eureka-
+ server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
